@@ -13,7 +13,7 @@
         "yiisoft/yii2": "*"
     },
     "autoload": {
-        "psr-4": { "x1\\input\\": "" }
+        "psr-0": { "x1\\input\\": "" }
     },
     "target-dir": "x1/input"
 
